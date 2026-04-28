@@ -161,7 +161,7 @@ React.js • CSS • Netlify
 ---
 
 ### Calculator App  
-<a href="abdulrahmandev-calculator.netlify.app">
+<a href="https://abdulrahmandev-calculator.netlify.app/">
   <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>  
 
