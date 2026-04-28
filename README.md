@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Abdulrahman Ayman
 
-MERN Stack Developer | AI-Powered Web Applications
-Computer Science Graduate (GPA 4.93)
-Passionate about building scalable web apps and AI-driven solutions
+MERN Stack Developer | AI-Powered Web Applications  
+Computer Science Graduate (GPA 4.93)  
+Passionate about building scalable web apps and AI-driven solutions  
 
 ---
 
