@@ -5,8 +5,15 @@
 ### MERN Stack Developer | AI-Powered Web Applications  
 ### Computer Science Graduate (GPA: 4.93 / 5.00)  
 
- abdulrahman.ayman.dev@gmail.com |  0554672215  
- [LinkedIn](https://linkedin.com/in/abdulrahman-ayman-51a22235b) | [Portfolio](https://abdulrahman.ayman.dev)
+📧 abdulrahman.ayman.dev@gmail.com | 📱 0554672215  
+
+<a href="https://linkedin.com/in/abdulrahman-ayman-51a22235b">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://abdulrahman.ayman.dev">
+  <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
@@ -87,14 +94,15 @@ Modern personal developer portfolio showcasing projects and skills.
 - Live project showcase  
 - Professional UI/UX structure  
 
- Live: https://abdulrahman.ayman.dev  
+**Live Website:**  
+https://abdulrahman.ayman.dev  
 
 ---
 
 ## Experience & Training
 
 ### Alkhedr Cars Company
-**Sales Consultant → Marketing Specialist → Showroom Manager (2021 – 2026)**
+Sales Consultant → Marketing Specialist → Showroom Manager (2021 – 2026)
 
 - Managed showroom operations in high-pressure environment  
 - Analyzed customer behavior to improve decision-making  
@@ -111,7 +119,7 @@ Modern personal developer portfolio showcasing projects and skills.
 
 ## Education
 
-**Bachelor of Computer Science – Qassim University**  
+Bachelor of Computer Science – Qassim University  
 GPA: 4.93 / 5.00  
 Graduation Year: 2026 (Fresh Graduate)
 
