@@ -217,4 +217,4 @@ LinkedIn: https://linkedin.com/in/abdulrahman-ayman-51a22235b
 
 ---
 
-Always open to opportunities and collaborations
+Open to opportunities – Let’s build something impactful
