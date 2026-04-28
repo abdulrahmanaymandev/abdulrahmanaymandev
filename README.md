@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Abdulrahman Ayman
+#  Abdulrahman Ayman 👋
 
 ### Full Stack Developer (MERN) | AI Systems Builder  
 ### Computer Science Graduate – GPA: 4.93 / 5.00  
@@ -67,8 +67,8 @@ My focus is on solving real-world problems through **data-driven and intelligent
 
 ## Featured Projects
 
-### PATHLY – AI Learning Platform  
-🔗 https://github.com/YOUR_USERNAME/pathly  
+### PATHLY – AI Learning Platform    
+(...Soon) 
 
 AI-powered platform that generates personalized learning paths based on user goals and real-time job market data.
 
@@ -82,7 +82,7 @@ Tech Stack: FastAPI • Python • OpenAI API • LangChain • React.js
 ---
 
 ### Blog Platform (MERN Stack)  
-https://github.com/YOUR_USERNAME/blog  
+(...Soon)  
 
 Full-stack blogging platform with authentication and complete content management system.
 
@@ -96,7 +96,10 @@ Tech Stack: MongoDB • Express.js • React.js • Node.js
 ---
 
 ### Cars Admin Dashboard  
-https://github.com/YOUR_USERNAME/dashboard  
+
+<a href="https://car-showroom-admin-dashboard.netlify.app">
+  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 Business dashboard for managing inventory, tracking sales, and visualizing performance data.
 
@@ -110,7 +113,7 @@ Tech Stack: React.js • REST APIs
 ---
 
 ### E-Commerce Web App  
-https://github.com/YOUR_USERNAME/ecommerce  
+(...Soon) 
 
 Responsive e-commerce frontend application with modern UI and core shopping features.
 
@@ -124,7 +127,9 @@ Tech Stack: React.js • REST APIs • Tailwind CSS
 ---
 
 ### Personal Portfolio Website  
-https://abdulrahmanayman.netlify.app  
+<a href="https://abdulrahmanayman.netlify.app">
+  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 Personal portfolio website showcasing projects, skills, and professional profile.
 
@@ -140,7 +145,9 @@ Tech Stack: React.js • Tailwind CSS • Netlify
 ## Additional Projects
 
 ### ToDo List App  
-https://github.com/YOUR_USERNAME/todolist  
+<a href="https://abdulrahman-todo.netlify.app/">
+  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>  
 
 A simple task management application to track daily activities and improve productivity.
 
@@ -154,7 +161,9 @@ React.js • CSS • Netlify
 ---
 
 ### Calculator App  
-https://github.com/YOUR_USERNAME/calculator  
+<a href="abdulrahmandev-calculator.netlify.app">
+  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>  
 
 Basic calculator application that performs arithmetic operations with a clean interface.
 
