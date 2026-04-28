@@ -194,9 +194,9 @@ GPA: 4.93 / 5.00
 
 ## What I’m Looking For
 
-- Full Stack Developer Role  
-- Backend / API Development  
-- AI-powered applications  
+- Full Stack / Backend / Frontend Developer Roles  
+- Building scalable backend systems and APIs  
+- Working on AI-powered and data-driven applications
 
 ---
 
