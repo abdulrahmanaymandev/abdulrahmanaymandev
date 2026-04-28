@@ -5,14 +5,18 @@
 ### Full Stack Developer (MERN) | Building Scalable Web Applications 
 ### Computer Science Graduate – GPA: 4.93 / 5.00  
 
-abdulrahman.ayman.dev@gmail.com  
+<br/>
+
+<a href="mailto:abdulrahman.ayman.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 <a href="https://linkedin.com/in/abdulrahman-ayman-51a22235b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
 </a>
 
 <a href="https://abdulrahmanayman.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -212,8 +216,14 @@ GPA: 4.93 / 5.00
 
 ## Contact Me
 
-Email: abdulrahman.ayman.dev@gmail.com  
-LinkedIn: https://linkedin.com/in/abdulrahman-ayman-51a22235b  
+<a href="mailto:abdulrahman.ayman.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://linkedin.com/in/abdulrahman-ayman-51a22235b">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
+</a>
+
 
 ---
 
