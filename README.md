@@ -1,99 +1,129 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdulrahman Ayman
+# 👋 Abdulrahman Ayman
 
 ### MERN Stack Developer | AI-Powered Web Applications  
-### Computer Science Graduate (GPA: 4.93)  
-### Building scalable apps & intelligent systems
+### Computer Science Graduate (GPA: 4.93 / 5.00)  
 
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdulrahman-ayman-51a22235b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://abdulrahman.ayman.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abdulrahmanaymandev)
+ abdulrahman.ayman.dev@gmail.com |  0554672215  
+ [LinkedIn](https://linkedin.com/in/abdulrahman-ayman-51a22235b) | [Portfolio](https://abdulrahman.ayman.dev)
 
 </div>
 
 ---
 
-## About Me
+## Professional Summary
 
-I am a Computer Science graduate passionate about building scalable full-stack applications and AI-powered systems.  
-I enjoy turning ideas into real-world products with clean architecture, performance, and great user experience.
+Computer Science graduate with a strong focus on **full-stack development and AI-powered systems**.  
+Experienced in building scalable, production-ready web applications using modern technologies.
+
+Developed real-world AI systems such as **PATHLY**, a personalized learning platform that generates learning paths based on job market data and user goals using AI models and recommendation logic.
+
+Passionate about building **data-driven, user-centered, and scalable applications**.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Frontend:**  
-React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS  
+### Frontend
+React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Tailwind CSS  
 
-**Backend:**  
-Node.js • Express.js • REST APIs • Python • Django  
+### Backend
+Node.js • Express.js • REST APIs • Python • Django • FastAPI  
 
-**Databases:**  
+### Databases
 MongoDB • PostgreSQL • SQL  
 
-**AI & Tools:**  
+### AI & Tools
 OpenAI API • LangChain • CrewAI • Streamlit  
 
-**Tools:**  
+### Tools & DevOps
 Git • GitHub • Linux • Postman  
 
 ---
 
 ## Featured Projects
 
-### 🔹 Portfolio Website (Personal Website)
-My personal developer portfolio showcasing my projects, skills, and experience. Built with modern UI and responsive design.  
-🔗 Live: https://abdulrahman.ayman.dev  
-**Tech:** React, Tailwind CSS, Responsive Design  
+### PATHLY – AI Learning Platform
+AI-powered system that generates personalized learning paths based on user goals and job market data.
+
+- Built recommendation engine using OpenAI API + LangChain  
+- Implemented user profiling and skill-gap analysis  
+- Developed scalable backend using FastAPI  
 
 ---
 
-### 🔹 PATHLY – AI Learning Platform
-AI-powered system that generates personalized learning paths based on user goals and job market data.  
-**Tech:** React, FastAPI, OpenAI API, PostgreSQL  
+### Blog Platform (MERN Stack)
+Full-stack blogging system with authentication and full CRUD operations.
+
+- Secure authentication system  
+- RESTful API architecture  
+- Admin and user post management  
 
 ---
 
-### 🔹 Blog Platform (MERN Stack)
-Full-stack blogging platform with authentication, CRUD operations, and user management.  
-**Tech:** MongoDB, Express, React, Node.js  
+### Cars Admin Dashboard
+Business dashboard for managing inventory and sales operations.
+
+- Built with React.js  
+- Dynamic data visualization  
+- Full CRUD operations  
 
 ---
 
-### 🔹 Cars Admin Dashboard
-Admin dashboard for managing inventory and sales with analytics and REST APIs.  
-**Tech:** React, REST APIs  
+### E-Commerce Web App
+Responsive e-commerce frontend application.
+
+- Product filtering system  
+- Shopping cart functionality  
+- API integration  
 
 ---
 
-### 🔹 E-Commerce App
-Responsive e-commerce frontend with product filtering, cart system, and UI-focused design.  
-**Tech:** React, APIs  
+### Personal Portfolio Website
+Modern personal developer portfolio showcasing projects and skills.
+
+- Fully responsive design  
+- Live project showcase  
+- Professional UI/UX structure  
+
+ Live: https://abdulrahman.ayman.dev  
 
 ---
 
-## GitHub Stats
+## Experience & Training
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanaymandev&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanaymandev&layout=compact&theme=tokyonight" />
-</p>
+### Alkhedr Cars Company
+**Sales Consultant → Marketing Specialist → Showroom Manager (2021 – 2026)**
+
+- Managed showroom operations in high-pressure environment  
+- Analyzed customer behavior to improve decision-making  
+- Strengthened problem-solving and execution speed  
 
 ---
 
-## Contact
+### Qassim Tech (QT) – 8 Weeks Training
+- AI Agents & workflow systems training  
+- Built AI-powered customer support system (Streamlit)  
+- Worked on multi-agent academic scheduling platform  
 
--  Email: abdulrahman.ayman.dev@gmail.com  
--  LinkedIn: https://linkedin.com/in/abdulrahman-ayman-51a22235b  
--  Portfolio: https://abdulrahman.ayman.dev  
--  GitHub: https://github.com/abdulrahmanaymandev  
+---
+
+## Education
+
+**Bachelor of Computer Science – Qassim University**  
+GPA: 4.93 / 5.00  
+Graduation Year: 2026 (Fresh Graduate)
+
+---
+
+## Languages
+
+- Arabic: Native  
+- English: Professional Working Proficiency  
 
 ---
 
 ## Vision
 
-> “Build scalable systems. Integrate AI. Deliver real-world impact.”
+> Building intelligent, scalable, and impactful software systems that solve real-world problems using AI and modern web technologies.
