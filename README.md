@@ -31,6 +31,8 @@ Responsive e-commerce frontend with product listing, filtering, and shopping car
 
 ---
 
+## Tech Stack
+
 **Frontend:**
 React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
 
