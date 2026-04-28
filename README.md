@@ -95,7 +95,7 @@ Modern personal developer portfolio showcasing projects and skills.
 - Professional UI/UX structure  
 
 **Live Website:**  
-[https://abdulrahman.ayman.dev](https://abdulrahmanayman.netlify.app)  
+[abdulrahman.ayman.dev](https://abdulrahmanayman.netlify.app)  
 
 ---
 
