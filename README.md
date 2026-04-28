@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://abdulrahmanayman.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Live-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -95,7 +95,7 @@ Modern personal developer portfolio showcasing projects and skills.
 - Professional UI/UX structure  
 
 **Live Website:**  
-[abdulrahman.ayman.dev](https://abdulrahmanayman.netlify.app)  
+https://abdulrahmanayman.netlify.app  
 
 ---
 
