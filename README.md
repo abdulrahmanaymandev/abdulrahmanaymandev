@@ -1,66 +1,99 @@
-# Hi there 👋 I'm Abdulrahman Ayman
+<div align="center">
 
-MERN Stack Developer | AI-Powered Web Applications  
-Computer Science Graduate (GPA 4.93)  
-Passionate about building scalable web apps and AI-driven solutions  
+# 👋 Hi, I'm Abdulrahman Ayman
+
+### MERN Stack Developer | AI-Powered Web Applications  
+### Computer Science Graduate (GPA: 4.93)  
+### Building scalable apps & intelligent systems
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdulrahman-ayman-51a22235b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://abdulrahman.ayman.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/abdulrahmanaymandev)
+
+</div>
 
 ---
 
 ## About Me
-I’m a Computer Science graduate focused on full-stack development and AI integration in modern web applications. I enjoy turning ideas into real, scalable products with clean architecture and good user experience.
 
----
-
-##  Featured Projects
-
-### PATHLY – AI Learning Platform
-AI-powered platform that generates personalized learning paths based on user goals and job market data.  
-**Tech Stack:** React, FastAPI, OpenAI API, PostgreSQL  
-
-### Blog Platform (MERN)
-Full-stack blogging platform with authentication, CRUD operations, and user management.  
-**Tech Stack:** MongoDB, Express.js, React, Node.js  
-
-### Cars Admin Dashboard
-Admin dashboard for managing cars inventory and sales with data visualization and REST APIs integration.  
-**Tech Stack:** React, REST APIs  
-
-### E-Commerce App
-Responsive e-commerce frontend with product listing, filtering, and shopping cart system.  
-**Tech Stack:** React, APIs  
+I am a Computer Science graduate passionate about building scalable full-stack applications and AI-powered systems.  
+I enjoy turning ideas into real-world products with clean architecture, performance, and great user experience.
 
 ---
 
 ## Tech Stack
 
-**Frontend:**
-React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**Frontend:**  
+React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS  
 
-**Backend:**
-Node.js, Express.js, REST APIs, Python, Django  
+**Backend:**  
+Node.js • Express.js • REST APIs • Python • Django  
 
-**Databases:**
-MongoDB, PostgreSQL, SQL  
+**Databases:**  
+MongoDB • PostgreSQL • SQL  
 
-**AI & Tools:**
-OpenAI API, LangChain, CrewAI, Streamlit  
+**AI & Tools:**  
+OpenAI API • LangChain • CrewAI • Streamlit  
 
-**Other Tools:**
-Git, GitHub, Linux  
-ux.
+**Tools:**  
+Git • GitHub • Linux • Postman  
+
+---
+
+## Featured Projects
+
+### 🔹 Portfolio Website (Personal Website)
+My personal developer portfolio showcasing my projects, skills, and experience. Built with modern UI and responsive design.  
+🔗 Live: https://abdulrahman.ayman.dev  
+**Tech:** React, Tailwind CSS, Responsive Design  
+
+---
+
+### 🔹 PATHLY – AI Learning Platform
+AI-powered system that generates personalized learning paths based on user goals and job market data.  
+**Tech:** React, FastAPI, OpenAI API, PostgreSQL  
+
+---
+
+### 🔹 Blog Platform (MERN Stack)
+Full-stack blogging platform with authentication, CRUD operations, and user management.  
+**Tech:** MongoDB, Express, React, Node.js  
+
+---
+
+### 🔹 Cars Admin Dashboard
+Admin dashboard for managing inventory and sales with analytics and REST APIs.  
+**Tech:** React, REST APIs  
+
+---
+
+### 🔹 E-Commerce App
+Responsive e-commerce frontend with product filtering, cart system, and UI-focused design.  
+**Tech:** React, APIs  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahmanaymandev&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanaymandev&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## Contact
-- Email: abdulrahman.ayman.dev@gmail.com
-- LinkedIn: https://linkedin.com/in/abdulrahman-ayman-51a22235b  
-- Portfolio: https://abdulrahman.ayman.dev
-- GitHub: github.com/abdulrahmanaymandev 
+
+-  Email: abdulrahman.ayman.dev@gmail.com  
+-  LinkedIn: https://linkedin.com/in/abdulrahman-ayman-51a22235b  
+-  Portfolio: https://abdulrahman.ayman.dev  
+-  GitHub: https://github.com/abdulrahmanaymandev  
 
 ---
 
-## Focus
+## Vision
 
-Building scalable systems.  
-Learning continuously.  
-Turning ideas into real products.
+> “Build scalable systems. Integrate AI. Deliver real-world impact.”
