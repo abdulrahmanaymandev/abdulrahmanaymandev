@@ -5,7 +5,7 @@
 ### MERN Stack Developer | AI-Powered Web Applications  
 ### Computer Science Graduate (GPA: 4.93 / 5.00)  
 
-📧 abdulrahman.ayman.dev@gmail.com | 📱 0554672215  
+ abdulrahman.ayman.dev@gmail.com | 0554672215  
 
 <a href="https://linkedin.com/in/abdulrahman-ayman-51a22235b">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
