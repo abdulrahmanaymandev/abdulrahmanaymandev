@@ -87,16 +87,15 @@ Tech Stack: FastAPI • Python • OpenAI API • LangChain • React.js
 ---
 
 ### Blog Platform (MERN Stack)  
-(...Soon)  
+<a href="https://inkline-project.netlify.app/"> <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 
-Full-stack blogging platform with authentication and complete content management system.
+A full-stack MERN blog platform that enables users to create, manage, and interact with content through a secure and scalable system.
 
-- Secure authentication system (JWT-based)  
-- Full CRUD operations for posts and users  
-- RESTful API design using Node.js and Express  
-- Clean and responsive UI built with React  
+It includes authentication, email verification, post management, comments, category filtering, image uploads, and an admin dashboard.
 
-Tech Stack: MongoDB • Express.js • React.js • Node.js
+Built with a focus on performance, clean architecture, and modern UI/UX principles.
+
+Tech Stack: MongoDB • Express.js • React.js • Node.js • JWT • Cloudinary
 
 ---
 
