@@ -2,7 +2,7 @@
 
 #  Abdulrahman Ayman 👋
 
-### Full Stack Developer (MERN) | Building Scalable Web Applications 
+### Full Stack Developer | Building Scalable Web Applications 
 ### Computer Science Graduate – GPA: 4.93 / 5.00  
 
 <br/>
