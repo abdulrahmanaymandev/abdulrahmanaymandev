@@ -103,13 +103,13 @@ Full-stack MERN blog platform with authentication, email verification, post and 
 
 ---
 
-### Cars Admin Dashboard
+### Cars Showroom Admin Dashboard
 
-Full-stack car management system with REST APIs and a React admin dashboard for vehicle inventory and sales operations.
+Full-stack car showroom management system with a React admin dashboard and backend API for managing vehicle inventory, orders, users, and specifications.
 
-**Tech:** React.js • REST APIs
+**Tech:** React • Vite • JavaScript • REST API
 
-[Live Demo](https://car-showroom-admin-dashboard.netlify.app) • 
+[Live Demo](https://car-showroom-admin-dashboard.netlify.app) • [Repository](https://github.com/abdulrahmanaymandev/car-showroom-admin-dashboard)
 
 ---
 
