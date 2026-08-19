@@ -83,13 +83,13 @@ Full-stack support ticket management system built end-to-end with authentication
 
 ---
 
-### PATHLY — AI-Powered Personalized Learning Platform
+### PATHLY — AI-Powered Career Guidance Platform
 
-Full-stack AI-powered platform with 6 core features that generates personalized learning paths based on user goals and job-market data.
+Full-stack AI-powered career guidance platform that analyzes user goals and skills to identify skill gaps and generate personalized learning roadmaps based on labor market insights.
 
-**Tech:** FastAPI • Python • OpenAI API • React.js
+**Tech:** Next.js • TypeScript • FastAPI • Python • OpenAI API • PostgreSQL • Supabase
 
-[Repository](PUT_REPOSITORY_URL_HERE)
+[Repository](https://github.com/abdulrahmanaymandev/PATHLY)
 
 ---
 
@@ -99,7 +99,7 @@ Full-stack blog platform with authentication, email verification, post managemen
 
 **Tech:** MongoDB • Express.js • React.js • Node.js • JWT • Cloudinary
 
-[Live Demo](https://inkline-project.netlify.app/) • [Repository](PUT_REPOSITORY_URL_HERE)
+[Live Demo](https://inkline-project.netlify.app/) • 
 
 ---
 
@@ -109,7 +109,7 @@ Full-stack car management system with REST APIs and a React admin dashboard for 
 
 **Tech:** React.js • REST APIs
 
-[Live Demo](https://car-showroom-admin-dashboard.netlify.app) • [Repository](PUT_REPOSITORY_URL_HERE)
+[Live Demo](https://car-showroom-admin-dashboard.netlify.app) • 
 
 ---
 
