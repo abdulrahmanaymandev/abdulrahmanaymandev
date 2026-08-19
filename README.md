@@ -93,13 +93,13 @@ Full-stack AI-powered career guidance platform that analyzes user goals and skil
 
 ---
 
-### Blog Platform — MERN Stack
+### Inkline — Full-Stack Blog Platform
 
-Full-stack blog platform with authentication, email verification, post management, comments, image uploads, and an admin dashboard.
+Full-stack MERN blog platform with authentication, email verification, post and comment management, image uploads, category browsing, and an admin dashboard.
 
 **Tech:** MongoDB • Express.js • React.js • Node.js • JWT • Cloudinary
 
-[Live Demo](https://inkline-project.netlify.app/) • 
+[Live Demo](https://inkline-project.netlify.app/) • [Repository](https://github.com/abdulrahmanaymandev/blog-project)
 
 ---
 
