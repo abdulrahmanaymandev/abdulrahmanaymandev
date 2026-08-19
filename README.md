@@ -75,11 +75,11 @@ I also bring several years of professional experience from the automotive indust
 
 ### Support Ticket System
 
-Full-stack support ticket system built end-to-end with authentication, admin management, real-time conversations, file attachments, search/filtering, localization, and automated deployment.
+Full-stack support ticket management system built end-to-end with authentication, role-based administration, real-time conversations, file attachments, search and filtering, Arabic/English localization, and automated CI/CD deployment.
 
-**Tech:** NestJS • PostgreSQL • Next.js • TypeScript • JWT • WebSockets • Swagger/OpenAPI • CI/CD
+**Tech:** React • TypeScript • NestJS • PostgreSQL • TypeORM • JWT • WebSockets • Swagger/OpenAPI • GitHub Actions • Render
 
-[Live Demo](https://ticket-system-web-mgu2.onrender.com/) • [Repository](PUT_REPOSITORY_URL_HERE)
+[Live Demo](https://ticket-system-web-mgu2.onrender.com/) • [Repository](https://github.com/abdulrahmanaymandev/support-ticket-system)
 
 ---
 
