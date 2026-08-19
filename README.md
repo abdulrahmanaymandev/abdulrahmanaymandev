@@ -1,9 +1,9 @@
 <div align="center">
 
-#  Abdulrahman Ayman 👋
+# Abdulrahman Ayman 👋
 
-### Full Stack Developer | Building Scalable Web Applications 
-### Computer Science Graduate – GPA: 4.93 / 5.00  
+### Software Engineer | Full-Stack Developer
+### B.Sc. in Computer Science — GPA: 4.93 / 5.00
 
 <br/>
 
@@ -25,195 +25,129 @@
 
 ## About Me
 
-Computer Science graduate specializing in **Full-Stack Development and AI-powered systems**.
+Software Engineer with hands-on experience developing full-stack web applications and contributing to real-world software products.
 
-I build **scalable, production-ready applications** using MERN stack and modern AI tools.  
-My focus is on solving real-world problems through **data-driven and intelligent systems**.
+Experienced in building and integrating REST APIs, database-driven applications, real-time features, testing, and collaborative development workflows.
 
-✔ Built AI platforms using OpenAI & LangChain  
-✔ Strong experience in backend systems & APIs  
-✔ Fast execution with real business understanding  
+I also bring several years of professional experience from the automotive industry, combining practical software development skills with an understanding of real-world business needs.
 
 ---
 
 ## Tech Stack
 
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-111111?style=for-the-badge)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=092E20)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=316192)
-
-### AI & Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-111111?style=for-the-badge&logo=robotframework&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
 ### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
+![CI/CD](https://img.shields.io/badge/CI/CD-111111?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI_API-111111?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-111111?style=for-the-badge)
 
 ---
 
 ## Featured Projects
 
-### PATHLY – AI Learning Platform    
-(...Soon) 
+### Support Ticket System
 
-AI-powered platform that generates personalized learning paths based on user goals and real-time job market data.
+Full-stack support ticket system built end-to-end with authentication, admin management, real-time conversations, file attachments, search/filtering, localization, and automated deployment.
 
-- Built recommendation engine using OpenAI API and LangChain  
-- Implemented user profiling and skill-gap analysis  
-- Designed scalable backend architecture using FastAPI  
-- Focused on real-world use case (career path optimization)  
+**Tech:** NestJS • PostgreSQL • Next.js • TypeScript • JWT • WebSockets • Swagger/OpenAPI • CI/CD
 
-Tech Stack: FastAPI • Python • OpenAI API • LangChain • React.js
+[Live Demo](https://ticket-system-web-mgu2.onrender.com/) • [Repository](PUT_REPOSITORY_URL_HERE)
 
 ---
 
-### Blog Platform (MERN Stack)  
-<a href="https://inkline-project.netlify.app/"> <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+### PATHLY — AI-Powered Personalized Learning Platform
 
-A full-stack MERN blog platform that enables users to create, manage, and interact with content through a secure and scalable system.
+Full-stack AI-powered platform with 6 core features that generates personalized learning paths based on user goals and job-market data.
 
-It includes authentication, email verification, post management, comments, category filtering, image uploads, and an admin dashboard.
+**Tech:** FastAPI • Python • OpenAI API • React.js
 
-Built with a focus on performance, clean architecture, and modern UI/UX principles.
-
-Tech Stack: MongoDB • Express.js • React.js • Node.js • JWT • Cloudinary
+[Repository](PUT_REPOSITORY_URL_HERE)
 
 ---
 
-### Cars Admin Dashboard  
+### Blog Platform — MERN Stack
 
-<a href="https://car-showroom-admin-dashboard.netlify.app">
-  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+Full-stack blog platform with authentication, email verification, post management, comments, image uploads, and an admin dashboard.
 
-Business dashboard for managing inventory, tracking sales, and visualizing performance data.
+**Tech:** MongoDB • Express.js • React.js • Node.js • JWT • Cloudinary
 
-- Built interactive UI using React.js  
-- Implemented dynamic data visualization  
-- Full CRUD operations for inventory management  
-- Optimized for usability in real business scenarios  
-
-Tech Stack: React.js • REST APIs
+[Live Demo](https://inkline-project.netlify.app/) • [Repository](PUT_REPOSITORY_URL_HERE)
 
 ---
 
-### E-Commerce Web App  
-(...Soon) 
+### Cars Admin Dashboard
 
-Responsive e-commerce frontend application with modern UI and core shopping features.
+Full-stack car management system with REST APIs and a React admin dashboard for vehicle inventory and sales operations.
 
-- Product filtering and search functionality  
-- Shopping cart system  
-- Integrated with external APIs  
-- Mobile-first responsive design  
+**Tech:** React.js • REST APIs
 
-Tech Stack: React.js • REST APIs • Tailwind CSS 
-
----
-
-### Personal Portfolio Website  
-<a href="https://abdulrahmanayman.netlify.app">
-  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-Personal portfolio website showcasing projects, skills, and professional profile.
-
-- Fully responsive modern UI  
-- Clean project showcase structure  
-- Designed for performance and simplicity  
-- Deployed and publicly accessible  
-
-Tech Stack: React.js • Tailwind CSS • Netlify
-
----
-
-## Additional Projects
-
-### ToDo List App  
-<a href="https://abdulrahman-todo.netlify.app/">
-  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>  
-
-A simple task management application to track daily activities and improve productivity.
-
-- Add, edit, and delete tasks  
-- Mark tasks as completed  
-- Clean and responsive UI  
-- State management using React  
-
-React.js • CSS • Netlify
-
----
-
-### Calculator App  
-<a href="https://abdulrahmandev-calculator.netlify.app/">
-  <img src="https://img.shields.io/badge/Project-Live Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>  
-
-Basic calculator application that performs arithmetic operations with a clean interface.
-
-- Supports addition, subtraction, multiplication, and division  
-- Interactive UI with real-time calculations  
-- Built using JavaScript logic handling  
-- Focused on user-friendly experience
-
-React.js • Tailwind CSS • Netlify
+[Live Demo](https://car-showroom-admin-dashboard.netlify.app) • [Repository](PUT_REPOSITORY_URL_HERE)
 
 ---
 
 ## Experience
 
-### Alkhedr Cars Company (2021 – 2026)
-Sales → Marketing → Showroom Manager  
+### Zaiti for Car Services — Full Stack Web Developer Intern
+**Jun 2026 – Aug 2026**
 
-- Managed operations in high-pressure environment  
-- Improved decision-making using customer data  
-- Strong problem-solving and execution skills  
+- Built a full-stack Support Ticket System end-to-end using NestJS, PostgreSQL, Next.js, REST APIs, JWT, and WebSockets.
+- Delivered and enhanced customer-facing features across Invoices, Wallet, Coupons, Rewards, Roulette, Support Tickets, and Dashboard.
+- Worked with API integration, responsive web experiences, CI/CD, automated deployment, and Swagger/OpenAPI documentation.
+
+### Alkhedr Cars Company — Automotive Retail
+**May 2021 – May 2026**
+
+**Sales Consultant → Marketing Specialist → Showroom Manager**
+
+- Progressed across sales, marketing, customer relations, and showroom operations while pursuing my Computer Science degree.
+- Built hands-on experience in leadership, customer communication, problem-solving, and business operations.
+
+### Qassim Tech (QT) — AI Systems & Agents Program
+**Jun 2025 – Aug 2025**
+
+- Worked in a team-based technical program focused on AI agents, multi-agent systems, and automated workflows.
+- Contributed to an AI-powered customer support system and a multi-agent academic platform with scheduling and notification features.
 
 ---
 
 ## Education
 
-Bachelor of Computer Science – Qassim University  
-GPA: 4.93 / 5.00  
+**Bachelor of Science in Computer Science — Qassim University**  
+GPA: **4.93 / 5.00**
 
 ---
 
-## Languages
+<div align="center">
 
-- Arabic: Native  
-- English: Professional  
-
----
-
-## What I’m Looking For
-
-- Full Stack / Backend / Frontend Developer Roles  
-- Building scalable backend systems and APIs  
-- Working on AI-powered and data-driven applications
-
----
-
-## Contact Me
+### Let's Connect
 
 <a href="mailto:abdulrahman.ayman.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
@@ -223,7 +157,4 @@ GPA: 4.93 / 5.00
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/>
 </a>
 
-
----
-
-Open to opportunities – Let’s build something impactful
+</div>
